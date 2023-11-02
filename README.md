@@ -1,2 +1,2 @@
 # HBBOc
-hbbo con readme
+nombre apellido hbbo con readme
